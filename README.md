@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Broomie
+# Hi there 👋, I'm Ahmed
 
 I'm a passionate **Software Engineer** with a focus on **Web & Mobile Development**, **AI**, and **Open Source**. I'm currently studying at **ESTIN** and working on a variety of projects, from **software development** to **machine learning**. I love to explore new technologies and improve my skills.
 
